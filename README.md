@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Gabriel Martinez | Computer Engineering Portfolio</title>
+<title>Gabriel Martinez | Computer Engineering Portfolio</title>
 </head>
 <body>
   <h1>Gabriel Martinez</h1>
